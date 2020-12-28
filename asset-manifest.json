@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5197f7f7.chunk.css",
+    "main.js": "/static/js/main.de3cace4.chunk.js",
+    "main.js.map": "/static/js/main.de3cace4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9ce2ae71.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9ce2ae71.js.map",
+    "static/js/2.10202b99.chunk.js": "/static/js/2.10202b99.chunk.js",
+    "static/js/2.10202b99.chunk.js.map": "/static/js/2.10202b99.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.05bd6d0b1849bba4940785f77a4410ad.js": "/precache-manifest.05bd6d0b1849bba4940785f77a4410ad.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5197f7f7.chunk.css.map": "/static/css/main.5197f7f7.chunk.css.map",
+    "static/js/2.10202b99.chunk.js.LICENSE.txt": "/static/js/2.10202b99.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/football-147854_1280.8bd6f590.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ce2ae71.js",
+    "static/js/2.10202b99.chunk.js",
+    "static/css/main.5197f7f7.chunk.css",
+    "static/js/main.de3cace4.chunk.js"
+  ]
+}
